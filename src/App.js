@@ -13,7 +13,22 @@ function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Amanda</small>
+          This project was coded by{" "}
+          <a
+            href="https://brave-meninsky-cd508d.netlify.app/about.html"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Amanda Chan{" "}
+          </a>
+          and is{" "}
+          <a
+            href="https://github.com/kiwicubex/dictionary-project2"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open-sourced on Github
+          </a>
         </footer>
       </div>
     </div>
